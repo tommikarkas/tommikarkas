@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there 👋 Nice of you to visit!
+
+Working mostly with work related Python and Kotlin projects for the past few years.
+
+Always intersted in interesting OS projects related to geospatial field.
+
+Battling often with...
+
+```mermaid
+
+  graph TD;
+        A[Get a wondeful IoT project idea]-->B;
+        B[Buy a bunch of equipment]-->D;
+        D[Procrastinate on the said idea]-->A;
+
+```
 
 <!--
 **tommikarkas/tommikarkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
