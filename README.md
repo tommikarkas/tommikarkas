@@ -11,7 +11,7 @@ Battling often with...
   graph TD;
         A[Get a wondeful IoT project idea]-->B;
         B[Buy a bunch of equipment]-->D;
-        D[Procrastinate on the said idea]-->A;
+        D[Procrastinate on the said idea]-- Forget the equipment exists -->A;
 
 ```
 
