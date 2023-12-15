@@ -2,7 +2,7 @@
 
 Working mostly with work related Python and Kotlin projects for the past few years.
 
-Always intersted in interesting OS projects related to geospatial field.
+Always interested in interesting OS projects related to geospatial field.
 
 Battling often with...
 
